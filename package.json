@@ -1,0 +1,11 @@
+{
+  "name": "serverfake-smtp-mail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:leonardo-anjos/serverfake-smtp-mail.git",
+  "author": "Leonardo Anjos <leodrums11@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.3.0"
+  }
+}
